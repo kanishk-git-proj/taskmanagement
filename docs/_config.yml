@@ -1,0 +1,14 @@
+title: task_management
+theme: minima
+
+header_pages:
+  - UserGuide.md
+  - Requirements.md
+  - Reflection.md
+
+markdown: kramdown
+
+repository: "kanishk-git-proj/task_management"
+
+plugins:
+  - jekyll-toc
