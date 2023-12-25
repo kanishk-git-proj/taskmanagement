@@ -28,6 +28,7 @@
       "webpack-dev-server": "^3"
     },
     "scripts": {
-        "start": "bin/webpack-dev-server"
+        "start": "bin/webpack-dev-server",
+        "build": "webpack --mode production"
     }
   }
